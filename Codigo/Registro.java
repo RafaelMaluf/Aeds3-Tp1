@@ -1,4 +1,4 @@
-package codigo;
+package Codigo;
 
 public interface Registro extends Comparable<Object>, Cloneable {
 
