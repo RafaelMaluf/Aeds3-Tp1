@@ -1,4 +1,4 @@
-package codigo;
+package Codigo;
 
 import java.io.RandomAccessFile;
 import java.lang.reflect.Constructor;
